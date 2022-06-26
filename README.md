@@ -12,7 +12,7 @@
 
 <h3 align="left">🛠 Technical Skills:</h3>
 <span>
-<img src="https://img.shields.io/badge/MySQL-0769AD?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/css-005C84?style=for-the-badge&logo=css3&logoColor=red">
+<img src="https://img.shields.io/badge/css-green?style=for-the-badge&logo=css3&logoColor=red">
 <img src="https://img.shields.io/badge/HTML5-005C84?style=for-the-badge&logo=HTML5&logoColor=red">
 <img src="https://img.shields.io/badge/JavaScript-005C84?style=for-the-badge&logo=JavaScript&logoColor=red">
 <img src="https://img.shields.io/badge/jQuery-005C84?style=for-the-badge&logo=jQuery&logoColor=red">
@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/Express-005C84?style=for-the-badge&logo=Express&logoColor=red">
 <img src="https://img.shields.io/badge/MongoDB-005C84?style=for-the-badge&logo=MongoDB&logoColor=red">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=MySQL&logoColor=red">
-<img src="https://img.shields.io/badge/firebase-005C84?style=for-the-badge&logo=firebase&logoColor=red">
 
   
   HTML5  CSS3  JavaScript  jQuery React Redux Node.js Express  MongoDB MySQL firebase 
