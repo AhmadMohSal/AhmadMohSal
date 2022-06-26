@@ -14,13 +14,11 @@
 <span>
 <img src="https://img.shields.io/badge/css-green?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-brightgreen?style=for-the-badge&logo=HTML5&logoColor=white">
-  <span> </br>
 <img src="https://img.shields.io/badge/JavaScript-yellowgreen?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-yellow?style=for-the-badge&logo=jQuery&logoColor=white">
     <span></br>
 <img src="https://img.shields.io/badge/React-orange?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-red?style=for-the-badge&logo=Redux&logoColor=white">
-      <span></br>
 <img src="https://img.shields.io/badge/Node.js-lightgrey?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=Express&logoColor=white">
         <span></br>
