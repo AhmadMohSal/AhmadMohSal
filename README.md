@@ -11,6 +11,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadmohsal&show_icons=true&locale=en&layout=compact" alt="ahmadmohsal" /></p>
-
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/css-005C84?style=for-the-badge&logo=css3&logoColor=read">
+<span>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/css-005C84?style=for-the-badge&logo=css3&logoColor=red">
 
