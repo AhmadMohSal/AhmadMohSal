@@ -13,15 +13,14 @@
 <h3 align="left">🛠 Technical Skills:</h3>
 <span>
 <img src="https://img.shields.io/badge/css-green?style=for-the-badge&logo=css3&logoColor=red">
-<img src="https://img.shields.io/badge/HTML5-005C84?style=for-the-badge&logo=HTML5&logoColor=red">
-<img src="https://img.shields.io/badge/JavaScript-005C84?style=for-the-badge&logo=JavaScript&logoColor=red">
-<img src="https://img.shields.io/badge/jQuery-005C84?style=for-the-badge&logo=jQuery&logoColor=red">
-<img src="https://img.shields.io/badge/React-005C84?style=for-the-badge&logo=React&logoColor=red">
-<img src="https://img.shields.io/badge/Redux-005C84?style=for-the-badge&logo=Redux&logoColor=red">
-<img src="https://img.shields.io/badge/Node.js-005C84?style=for-the-badge&logo=Node.js&logoColor=red">
-<img src="https://img.shields.io/badge/Express-005C84?style=for-the-badge&logo=Express&logoColor=red">
-<img src="https://img.shields.io/badge/MongoDB-005C84?style=for-the-badge&logo=MongoDB&logoColor=red">
+<img src="https://img.shields.io/badge/HTML5-brightgreen?style=for-the-badge&logo=HTML5&logoColor=red">
+<img src="https://img.shields.io/badge/JavaScript-yellowgreen?style=for-the-badge&logo=JavaScript&logoColor=red">
+<img src="https://img.shields.io/badge/jQuery-yellow?style=for-the-badge&logo=jQuery&logoColor=red">
+<img src="https://img.shields.io/badge/React-orange?style=for-the-badge&logo=React&logoColor=red">
+<img src="https://img.shields.io/badge/Redux-red?style=for-the-badge&logo=Redux&logoColor=red">
+<img src="https://img.shields.io/badge/Node.js-lightgrey?style=for-the-badge&logo=Node.js&logoColor=red">
+<img src="https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=Express&logoColor=red">
+<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB&logoColor=red">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=MySQL&logoColor=red">
 
   
-  HTML5  CSS3  JavaScript  jQuery React Redux Node.js Express  MongoDB MySQL firebase 
